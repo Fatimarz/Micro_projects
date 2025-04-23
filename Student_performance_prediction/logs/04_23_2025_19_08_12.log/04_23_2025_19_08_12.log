@@ -1,0 +1,5 @@
+[2025-04-23 19:08:12,798] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-23 19:08:12,800] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-23 19:08:12,805] 97 werkzeug - INFO -  * Debugger PIN: 664-311-587
+[2025-04-23 19:08:12,807] 97 werkzeug - INFO -  * Debugger PIN: 664-311-587
+[2025-04-23 19:08:35,823] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\anaconda3\\envs\\car_env\\Scripts\\pip-script.py', reloading
